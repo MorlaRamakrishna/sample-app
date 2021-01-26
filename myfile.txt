@@ -1,0 +1,26 @@
+ Volume in drive D is New Volume
+ Volume Serial Number is 203F-B7E7
+
+ Directory of D:\Play_Ground\sample-app
+
+26/01/2021  01:06 pm    <DIR>          .
+26/01/2021  01:06 pm    <DIR>          ..
+26/01/2021  10:40 am               703 .browserslistrc
+26/01/2021  10:40 am               274 .editorconfig
+26/01/2021  10:40 am               631 .gitignore
+26/01/2021  10:40 am             3,737 angular.json
+26/01/2021  11:16 am    <DIR>          dist
+26/01/2021  10:40 am    <DIR>          e2e
+26/01/2021  10:40 am             1,427 karma.conf.js
+26/01/2021  01:06 pm                 0 myfile.txt
+26/01/2021  11:16 am    <DIR>          node_modules
+26/01/2021  10:44 am           583,002 package-lock.json
+26/01/2021  10:40 am             1,200 package.json
+26/01/2021  10:40 am             1,018 README.md
+26/01/2021  10:40 am    <DIR>          src
+26/01/2021  10:40 am               287 tsconfig.app.json
+26/01/2021  10:40 am               783 tsconfig.json
+26/01/2021  10:40 am               333 tsconfig.spec.json
+26/01/2021  10:40 am             3,185 tslint.json
+              13 File(s)        596,580 bytes
+               6 Dir(s)  211,582,427,136 bytes free
